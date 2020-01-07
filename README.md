@@ -10,8 +10,8 @@
     - 이  메  일  : [email](email)
     - 깃허브 : [Github](github_address)
   - 안병욱
-    - 이  메  일  : [email](email)
-    - 깃허브 : [Github](github_address)
+    - 이  메  일  : [anbo10283182@gmail.com](anbo10283182@gmail.com)
+    - 깃허브 : [https://github.com/Donkey-1028](https://github.com/Donkey-1028)
   - 서미지
     - 이  메  일  : [tjalwled12@gmail.com](tjalwled12@gmail.com)
     - 깃허브 : [https://github.com/prograsshopper](https://github.com/prograsshopper)
