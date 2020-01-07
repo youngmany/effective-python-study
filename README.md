@@ -16,6 +16,6 @@
     - 이  메  일  : [tjalwled12@gmail.com](tjalwled12@gmail.com)
     - 깃허브 : [https://github.com/prograsshopper](https://github.com/prograsshopper)
   - 황정수
-    - 이  메  일  : [email](email)
-    - 깃허브 : [Github](github_address)
+    - 이  메  일  : [sds219@gmail.com](jsds219@gmail.com)
+    - 깃허브 : [https://github.com/jsds219](https://github.com/jsds219)
   
