@@ -7,8 +7,8 @@
 
  ### 스터디 참여자
   - 김영민
-    - 이  메  일  : [email](email)
-    - 깃허브 : [Github](github_address)
+    - 이  메  일  : [email](ppp4397@gmail.com)
+    - 깃허브 : [Github](https://github.com/youngmany)
   - 안병욱
     - 이  메  일  : [anbo10283182@gmail.com](anbo10283182@gamil.com)
     - 깃허브 : [https://github.com/Donkey-1028](https://github.com/Donkey-1028)
